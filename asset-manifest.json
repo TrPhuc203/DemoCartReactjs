@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DemoCartReactjs/static/css/main.d221dc40.css",
+    "main.js": "/DemoCartReactjs/static/js/main.d65c8df1.js",
+    "index.html": "/DemoCartReactjs/index.html",
+    "main.d221dc40.css.map": "/DemoCartReactjs/static/css/main.d221dc40.css.map",
+    "main.d65c8df1.js.map": "/DemoCartReactjs/static/js/main.d65c8df1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.d65c8df1.js"
+  ]
+}
